@@ -1,0 +1,453 @@
+Timestamp,IP,Email,Request,Status
+2025-11-12 18:29:34,[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-12 18:29:34,[33mPress CTRL+C to quit[0m
+2025-11-12 18:29:34, * Restarting with watchdog (windowsapi)
+2025-11-12 18:29:34, * Debugger is active!
+2025-11-12 18:29:34, * Debugger PIN: 169-428-070
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\blinker\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\blinker\\base.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\certifi\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\certifi\\core.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\api.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\legacy.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\models.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\utils.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\version.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\click\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\click\\core.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\click\\decorators.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\click\\exceptions.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\click\\formatting.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\click\\globals.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\click\\termui.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\click\\types.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\click\\utils.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\contourpy\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\contourpy\\_version.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\contourpy\\convert.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\contourpy\\dechunk.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cycler\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\distro\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\distro\\distro.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\blueprints.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\sansio\\blueprints.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\cli.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\config.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\ctx.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\debughelpers.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\helpers.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\json\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\logging.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\sessions.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\signals.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\testing.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\views.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\__main__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\loggingTools.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\util.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\exc.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\exc.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\types.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\compat.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\config.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\objects\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\objects\\blob.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\objects\\commit.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\objects\\base.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\objects\\submodule\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\objects\\submodule\\root.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\objects\\submodule\\base.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\objects\\tag.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\objects\\tree.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\refs\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\refs\\head.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\refs\\log.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\refs\\reference.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\refs\\remote.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\refs\\symbolic.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\refs\\tag.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\diff.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\db.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\db\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\db\\base.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\db\\loose.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\db\\mem.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\db\\pack.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\db\\git.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\db\\ref.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\cmd.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\repo\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\repo\\base.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\remote.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\util.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\index\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\index\\typ.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\index\\base.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\h11\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\h11\\_connection.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\h11\\_events.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\h11\\_state.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\h11\\_util.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_api.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_async\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_async\\interfaces.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_async\\connection_pool.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_async\\http2.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_async\\http11.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_async\\connection.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_async\\http_proxy.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_async\\socks_proxy.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_backends\\base.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_backends\\mock.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_backends\\sync.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_exceptions.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_models.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_ssl.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_sync\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_sync\\interfaces.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_sync\\connection_pool.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_sync\\http2.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_sync\\http11.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_sync\\connection.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_sync\\http_proxy.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpcore\\_sync\\socks_proxy.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpx\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpx\\_api.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpx\\_auth.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpx\\_client.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpx\\_config.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpx\\_content.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpx\\_exceptions.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpx\\_models.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpx\\_status_codes.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpx\\_transports\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpx\\_transports\\asgi.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpx\\_transports\\base.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpx\\_transports\\default.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpx\\_transports\\mock.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpx\\_transports\\wsgi.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpx\\_types.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpx\\_urls.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\httpx\\__version__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\core.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\intranges.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\package_data.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\itsdangerous\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\itsdangerous\\encoding.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\itsdangerous\\exc.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\itsdangerous\\serializer.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\itsdangerous\\signer.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\itsdangerous\\timed.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\itsdangerous\\url_safe.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jinja2\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jinja2\\bccache.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jinja2\\exceptions.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jinja2\\loaders.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jinja2\\runtime.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jinja2\\utils.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\joblib\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\joblib\\_cloudpickle_wrapper.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\joblib\\_parallel_backends.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\joblib\\_store_backends.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\joblib\\compressor.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\joblib\\hashing.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\joblib\\logger.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\joblib\\memory.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\joblib\\numpy_pickle.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\joblib\\parallel.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jsonschema_specifications\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\kiwisolver\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\kiwisolver\\exceptions.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\llvmlite\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\markupsafe\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\matplotlib\\pylab.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\matplotlib\\backends\\registry.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\typing\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_array_like.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\matplotlib\\typing.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_extended_precision.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\matplotlib\\tests\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\narwhals\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\narwhals\\_utils.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\narwhals\\dataframe.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\narwhals\\dtypes.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\narwhals\\expr.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\narwhals\\functions.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\narwhals\\schema.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\narwhals\\series.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\narwhals\\translate.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numba\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numba\\core\\errors.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numba\\core\\types\\abstract.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numba\\core\\types\\containers.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numba\\core\\types\\function_type.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numba\\core\\types\\functions.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numba\\core\\types\\iterators.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numba\\core\\types\\misc.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numba\\core\\types\\npytypes.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numba\\core\\types\\scalars.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\lib\\_old_api.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\_types.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\_utils\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\_utils\\_utils.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\_client.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\_streaming.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\_models.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\_version.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\_response.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\_constants.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\_exceptions.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\_base_client.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\_legacy_response.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\lib\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\lib\\_tools.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\version.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\lib\\azure.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\lib\\streaming\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\lib\\streaming\\_assistants.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\openai\\_module_client.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pip\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\plotly\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pyarrow\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\__init__.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\errors.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\main.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\networks.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\types.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\deprecated\\tools.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\version.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic_core\\core_schema.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\aliases.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\annotated_handlers.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\config.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\fields.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\functional_serializers.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\functional_validators.py', reloading
+2025-11-12 18:29:35, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\json_schema.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\type_adapter.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\validate_call_decorator.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\warnings.py', reloading
+2025-11-12 18:29:36, * Restarting with watchdog (windowsapi)
+2025-11-12 18:29:36, * Debugger is active!
+2025-11-12 18:29:36, * Debugger PIN: 169-428-070
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\signal\\_short_time_fft.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\signal\\_peak_finding.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\signal\\_czt.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\spatial\\__init__.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\spatial\\_kdtree.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\spatial\\_plotutils.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\special\\_sf_error.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\special\\_spfun_stats.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\special\\_ellip_harm.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\special\\_lambertw.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\special\\_spherical_bessel.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\version.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\__config__.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sklearn\\frozen\\__init__.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sklearn\\frozen\\_frozen.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\smmap\\__init__.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sniffio\\__init__.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sniffio\\_impl.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\__init__.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\commands\\echo.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\commands\\logo.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\commands\\navigation.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\navigation\\page.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\spinner.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\commands\\page_config.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\commands\\execution_control.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tenacity\\__init__.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tenacity\\retry.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tenacity\\nap.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tenacity\\stop.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tenacity\\wait.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tenacity\\before.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tenacity\\after.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tenacity\\before_sleep.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tenacity\\asyncio\\__init__.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tzdata\\__init__.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\__init__.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_collections.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\connectionpool.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\filepost.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\poolmanager.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\response.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\request.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\retry.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\timeout.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\__init__.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\test.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2025-11-12 18:29:36, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2025-11-12 18:29:37, * Restarting with watchdog (windowsapi)
+2025-11-12 18:29:37, * Debugger is active!
+2025-11-12 18:29:37, * Debugger PIN: 169-428-070
+2025-11-12 18:35:01, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\sansio\\request.py', reloading
+2025-11-12 18:35:01, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\utils.py', reloading
+2025-11-12 18:35:01, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\_internal.py', reloading
+2025-11-12 18:35:02, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\datastructures\\structures.py', reloading
+2025-11-12 18:35:02, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\datastructures\\mixins.py', reloading
+2025-11-12 18:35:02, * Detected change in 'c:\\Users\\SUJEET\\GuardAI\\fake_college_website.py', reloading
+2025-11-12 18:35:02, * Detected change in 'c:\\Users\\SUJEET\\GuardAI\\fake_college_website.py', reloading
+2025-11-12 18:35:02, * Detected change in 'c:\\Users\\SUJEET\\GuardAI\\fake_college_website.py', reloading
+2025-11-12 18:35:02, * Restarting with watchdog (windowsapi)
+2025-11-12 18:35:03,212, * Debugger is active!
+2025-11-12 18:35:03,219, * Debugger PIN: 169-428-070
+2025-11-12 18:35:06,833,[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-12 18:35:06,834,[33mPress CTRL+C to quit[0m
+2025-11-12 18:35:06,850, * Restarting with watchdog (windowsapi)
+2025-11-12 18:35:07,224, * Debugger is active!
+2025-11-12 18:35:07,229, * Debugger PIN: 169-428-070
+2025-11-12 18:35:28,089,[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-12 18:35:28,089,[33mPress CTRL+C to quit[0m
+2025-11-12 18:35:28,102, * Restarting with watchdog (windowsapi)
+2025-11-12 18:35:28,468, * Debugger is active!
+2025-11-12 18:35:28,475, * Debugger PIN: 169-428-070
+2025-11-12 18:36:44,976, * Detected change in 'C:\\Users\\SUJEET\\GuardAI\\fake_college_website.py', reloading
+2025-11-12 18:36:44,977, * Detected change in 'C:\\Users\\SUJEET\\GuardAI\\fake_college_website.py', reloading
+2025-11-12 18:36:44,978, * Detected change in 'C:\\Users\\SUJEET\\GuardAI\\fake_college_website.py', reloading
+2025-11-12 18:36:45,721, * Restarting with watchdog (windowsapi)
+2025-11-12 18:36:46,215, * Debugger is active!
+2025-11-12 18:36:46,223, * Debugger PIN: 169-428-070
+2025-11-12 18:38:24,435,[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-12 18:38:24,435,[33mPress CTRL+C to quit[0m
+2025-11-12 18:38:24,451, * Restarting with watchdog (windowsapi)
+2025-11-12 18:38:24,831, * Debugger is active!
+2025-11-12 18:38:24,837, * Debugger PIN: 169-428-070
+2025-11-12 18:38:40,543, * Detected change in 'c:\\Users\\SUJEET\\GuardAI\\fake_college_website.py', reloading
+2025-11-12 18:38:40,543, * Detected change in 'c:\\Users\\SUJEET\\GuardAI\\fake_college_website.py', reloading
+2025-11-12 18:38:40,544, * Detected change in 'c:\\Users\\SUJEET\\GuardAI\\fake_college_website.py', reloading
+2025-11-12 18:38:41,009, * Restarting with watchdog (windowsapi)
+2025-11-12 18:38:41,523, * Debugger is active!
+2025-11-12 18:38:41,530, * Debugger PIN: 169-428-070
+2025-11-12 18:38:44,628, * Detected change in 'c:\\Users\\SUJEET\\GuardAI\\fake_college_website.py', reloading
+2025-11-12 18:38:44,629, * Detected change in 'c:\\Users\\SUJEET\\GuardAI\\fake_college_website.py', reloading
+2025-11-12 18:38:45,610, * Restarting with watchdog (windowsapi)
+2025-11-12 18:38:45,951, * Debugger is active!
+2025-11-12 18:38:45,958, * Debugger PIN: 169-428-070
+2025-11-12 18:38:48,803,[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-12 18:38:48,803,[33mPress CTRL+C to quit[0m
+2025-11-12 18:38:48,818, * Restarting with watchdog (windowsapi)
+2025-11-12 18:38:49,144, * Debugger is active!
+2025-11-12 18:38:49,150, * Debugger PIN: 169-428-070
+2025-11-12 18:39:07,024, * Detected change in 'c:\\Users\\SUJEET\\GuardAI\\fake_college_website.py', reloading
+2025-11-12 18:39:07,025, * Detected change in 'C:\\Users\\SUJEET\\GuardAI\\fake_college_website.py', reloading
+2025-11-12 18:39:07,025, * Detected change in 'C:\\Users\\SUJEET\\GuardAI\\fake_college_website.py', reloading
+2025-11-12 18:39:07,027, * Detected change in 'C:\\Users\\SUJEET\\GuardAI\\fake_college_website.py', reloading
+2025-11-12 18:39:07,110, * Restarting with watchdog (windowsapi)
+2025-11-12 18:39:07,247, * Restarting with watchdog (windowsapi)
+2025-11-12 18:39:07,591, * Debugger is active!
+2025-11-12 18:39:07,599, * Debugger PIN: 169-428-070
+2025-11-12 18:39:07,759, * Debugger is active!
+2025-11-12 18:39:07,766, * Debugger PIN: 169-428-070
+2025-11-12 18:39:54,163,127.0.0.1 - - [12/Nov/2025 18:39:54] "GET / HTTP/1.1" 200 -
+2025-11-12 18:39:54,365,127.0.0.1 - - [12/Nov/2025 18:39:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-12 18:39:57,562,127.0.0.1 - - [12/Nov/2025 18:39:57] "GET /login HTTP/1.1" 200 -
+2025-11-12 18:40:03,468,127.0.0.1,znfnsd,sng,401
+2025-11-12 18:40:03,470,127.0.0.1 - - [12/Nov/2025 18:40:03] "POST /login HTTP/1.1" 200 -
+2025-11-12 18:40:34,568, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_shape.py', reloading
+2025-11-12 18:40:34,569, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_shape.py', reloading
+2025-11-12 18:40:34,721, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\delta_generator_singletons.py', reloading
+2025-11-12 18:40:34,728, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\delta_generator.py', reloading
+2025-11-12 18:40:34,729, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\delta_generator.py', reloading
+2025-11-12 18:40:34,776, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\alert.py', reloading
+2025-11-12 18:40:34,776, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\alert.py', reloading
+2025-11-12 18:40:34,787, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\widgets\\audio_input.py', reloading
+2025-11-12 18:40:34,787, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\widgets\\audio_input.py', reloading
+2025-11-12 18:40:34,794, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\balloons.py', reloading
+2025-11-12 18:40:34,794, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\balloons.py', reloading
+2025-11-12 18:40:34,797, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\bokeh_chart.py', reloading
+2025-11-12 18:40:34,797, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\bokeh_chart.py', reloading
+2025-11-12 18:40:34,803, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\widgets\\button.py', reloading
+2025-11-12 18:40:34,803, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\widgets\\button.py', reloading
+2025-11-12 18:40:34,824, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\widgets\\button_group.py', reloading
+2025-11-12 18:40:34,842, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\widgets\\camera_input.py', reloading
+2025-11-12 18:40:34,848, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\widgets\\chat.py', reloading
+2025-11-12 18:40:34,869, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\widgets\\checkbox.py', reloading
+2025-11-12 18:40:34,873, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\code.py', reloading
+2025-11-12 18:40:34,877, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\widgets\\color_picker.py', reloading
+2025-11-12 18:40:34,882, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\empty.py', reloading
+2025-11-12 18:40:34,887, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\exception.py', reloading
+2025-11-12 18:40:34,893, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\widgets\\file_uploader.py', reloading
+2025-11-12 18:40:34,903, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\form.py', reloading
+2025-11-12 18:40:34,907, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\graphviz_chart.py', reloading
+2025-11-12 18:40:34,913, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\heading.py', reloading
+2025-11-12 18:40:34,919, * Restarting with watchdog (windowsapi)
+2025-11-12 18:40:34,919, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\doc_string.py', reloading
+2025-11-12 18:40:34,930, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\html.py', reloading
+2025-11-12 18:40:34,934, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\iframe.py', reloading
+2025-11-12 18:40:34,941, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\image.py', reloading
+2025-11-12 18:40:34,946, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\layouts.py', reloading
+2025-11-12 18:40:34,958, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\markdown.py', reloading
+2025-11-12 18:40:35,116, * Restarting with watchdog (windowsapi)
+2025-11-12 18:40:35,572, * Debugger is active!
+2025-11-12 18:40:35,579, * Debugger PIN: 169-428-070
+2025-11-12 18:40:35,682, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\lib\\column_config_utils.py', reloading
+2025-11-12 18:40:35,682, * Debugger is active!
+2025-11-12 18:40:35,691, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\lib\\column_types.py', reloading
+2025-11-12 18:40:35,692, * Debugger PIN: 169-428-070
+2025-11-12 18:40:35,740, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\lib\\utils.py', reloading
+2025-11-12 18:40:35,742, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\lib\\utils.py', reloading
+2025-11-12 18:40:35,750, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\runtime\\state\\__init__.py', reloading
+2025-11-12 18:40:35,750, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\runtime\\state\\__init__.py', reloading
+2025-11-12 18:40:35,753, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\runtime\\state\\common.py', reloading
+2025-11-12 18:40:36,687, * Restarting with watchdog (windowsapi)
+2025-11-12 18:40:36,812, * Restarting with watchdog (windowsapi)
+2025-11-12 18:40:37,141, * Debugger is active!
+2025-11-12 18:40:37,148, * Debugger PIN: 169-428-070
+2025-11-12 18:40:37,281, * Debugger is active!
+2025-11-12 18:40:37,287, * Debugger PIN: 169-428-070
+2025-11-12 18:40:37,871, * Detected change in 'c:\\Users\\SUJEET\\GuardAI\\streamlit2.py', reloading
+2025-11-12 18:40:37,871, * Detected change in 'c:\\Users\\SUJEET\\GuardAI\\streamlit2.py', reloading
+2025-11-12 18:40:37,871, * Detected change in 'C:\\Users\\SUJEET\\GuardAI\\streamlit2.py', reloading
+2025-11-12 18:40:37,872, * Detected change in 'c:\\Users\\SUJEET\\GuardAI\\streamlit2.py', reloading
+2025-11-12 18:40:38,216, * Restarting with watchdog (windowsapi)
+2025-11-12 18:40:38,361, * Restarting with watchdog (windowsapi)
+2025-11-12 18:40:38,647, * Debugger is active!
+2025-11-12 18:40:38,653, * Debugger PIN: 169-428-070
+2025-11-12 18:40:38,846, * Debugger is active!
+2025-11-12 18:40:38,854, * Debugger PIN: 169-428-070
+2025-11-12 18:40:40,610, * Detected change in 'c:\\Users\\SUJEET\\GuardAI\\streamlit2.py', reloading
+2025-11-12 18:40:40,611, * Detected change in 'C:\\Users\\SUJEET\\GuardAI\\streamlit2.py', reloading
+2025-11-12 18:40:40,611, * Detected change in 'c:\\Users\\SUJEET\\GuardAI\\streamlit2.py', reloading
+2025-11-12 18:40:40,612, * Detected change in 'C:\\Users\\SUJEET\\GuardAI\\streamlit2.py', reloading
+2025-11-12 18:40:40,732, * Restarting with watchdog (windowsapi)
+2025-11-12 18:40:40,941, * Restarting with watchdog (windowsapi)
+2025-11-12 18:40:41,401, * Debugger is active!
+2025-11-12 18:40:41,409, * Debugger PIN: 169-428-070
+2025-11-12 18:40:46,132, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\env_util.py', reloading
+2025-11-12 18:40:46,490, * Restarting with watchdog (windowsapi)
+2025-11-12 18:40:46,907, * Debugger is active!
+2025-11-12 18:40:46,914, * Debugger PIN: 169-428-070
+2025-11-12 18:40:48,938, * Detected change in 'C:\\Users\\SUJEET\\GuardAI\\streamlit2.py', reloading
+2025-11-12 18:40:48,941, * Detected change in 'C:\\Users\\SUJEET\\GuardAI\\streamlit2.py', reloading
+2025-11-12 18:40:48,946, * Detected change in 'C:\\Users\\SUJEET\\GuardAI\\streamlit2.py', reloading
+2025-11-12 18:40:48,989, * Restarting with watchdog (windowsapi)
+2025-11-12 18:40:49,401, * Debugger is active!
+2025-11-12 18:40:49,407, * Debugger PIN: 169-428-070
+2025-11-12 18:41:20,092, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\script_runner.py', reloading
+2025-11-12 18:41:20,092, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\exec_code.py', reloading
+2025-11-12 18:41:20,094, * Detected change in 'C:\\Users\\SUJEET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py', reloading
+2025-11-12 18:41:20,537, * Restarting with watchdog (windowsapi)
+2025-11-12 18:41:21,041, * Debugger is active!
+2025-11-12 18:41:21,051, * Debugger PIN: 169-428-070
+2025-11-12 18:41:44,546, * Detected change in 'C:\\Users\\SUJEET\\GuardAI\\fake_college_website.py', reloading
+2025-11-12 18:41:45,222, * Restarting with watchdog (windowsapi)
